@@ -1,0 +1,26 @@
+{
+  "name": "shinjibot",
+  "version": "0.1.0",
+  "description": "Shinji Matou bot for /r/heavensfeel Slack chat",
+  "main": "lib/shinjibot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anxiousdev/shinjibot.git"
+  },
+  "keywords": [
+    "shinjibot"
+  ],
+  "author": "anxiousdev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anxiousdev/shinjibot/issues"
+  },
+  "homepage": "https://github.com/anxiousdev/shinjibot#readme",
+  "dependencies": {
+    "slackbots": "^0.5.1",
+    "sqlite3": "^3.1.3"
+  }
+}
